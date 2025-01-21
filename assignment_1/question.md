@@ -160,5 +160,3 @@ Assignment 1
    sentence
    The output of the program must be exactly the same as the example output (the most strict
    comparison level)
-
-dasd
