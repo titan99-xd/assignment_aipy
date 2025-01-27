@@ -30,7 +30,7 @@ def main():
                     print("Incorrect selection.")
 
         elif choice == '3':
-            # Quit and print the remaining items in the list
+            # Quit and print the list
             print("The following items remain in the list:")
             for item in grocery_list:
                 print(item)
